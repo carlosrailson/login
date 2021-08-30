@@ -1,6 +1,6 @@
 # Sistema de Login
 
-![login](https://user-images.githubusercontent.com/85134349/124674440-1b070080-de91-11eb-9d3b-2e8417731d5a.png)
+![Screenshot 2021-08-30 at 08-46-44 Formulário de Loggin](https://user-images.githubusercontent.com/85134349/131334961-71ab4fc9-b5c9-4ee3-9ff3-ccc392c27b9c.png)
 
 ## Status: Em desenvolvimento ⚠️
 
