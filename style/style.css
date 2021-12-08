@@ -6,11 +6,11 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  background-image: url("../img/forest.jpg");
+  background-image: url("../img/forest4.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  color: #333;
+  color: #0F225C;
 }
 
 .container {
@@ -27,7 +27,7 @@ h1 {
 .devide {
   height: 3px;
   width: 30px;
-  background-color: #333;
+  background-color: #0F225C;
   margin-bottom: 20px;
 }
 
@@ -38,7 +38,7 @@ h1 {
   padding: 10px;
   background-color: rgba(204, 204, 204, 0.623);
   border-radius: 10px;
-  border: 3px solid #555;
+  border: 2px solid #0F225C;
 }
 
 p {
@@ -47,30 +47,31 @@ p {
 
 .form input,
 .form button {
-  width: 250px;
+  width: 280px;
   padding: 5px;
   margin: 5px auto;
   box-sizing: border-box;
   font-size: 17px;
   outline: none;
-  border: 2px solid #555;
+  border: 2px solid transparent;
   border-radius: 10px;
-  color: #333;
-  background-color: rgba(255, 255, 255, 0.7);
+  color: #0F225C;
+  background-color: rgba(255, 255, 255, 0.5);
+  outline: 2px solid #0F225C;
 }
 
 .form button {
-  border-bottom: 5px solid #555;
+  /* border-bottom: 5px solid #555; */
   border-radius: 10px;
 }
 
-.form button:active {
+/* .form button:active {
   border-bottom: 2px solid #555;
   margin-top: 8px;
-}
+} */
 
 .form button:hover {
-  background-color: #aaa;
+  background-color: #0f225c49;
   cursor: pointer;
 }
 
@@ -88,13 +89,12 @@ p {
   margin: 20px;
 }
 
-.icon {
-  margin: 10px;
+.fontawesome-area i {
+  margin-top: 10px;
+  font-size: 22px;
+  cursor: pointer;
 }
 
-.icons i {
-  margin-top: 10px;
-  font-size: 20px;
-  padding: 5px;
-  cursor: pointer;
+.icon {
+  margin: 10px;
 }
