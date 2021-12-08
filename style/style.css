@@ -24,7 +24,7 @@ h1 {
   margin-bottom: 3px;
 }
 
-.divide {
+.devide {
   height: 3px;
   width: 30px;
   background-color: #333;
@@ -38,7 +38,7 @@ h1 {
   padding: 10px;
   background-color: rgba(204, 204, 204, 0.623);
   border-radius: 10px;
-  border: 2px solid #555;
+  border: 3px solid #555;
 }
 
 p {
@@ -80,12 +80,16 @@ p {
   cursor: pointer;
 }
 
-.icons {
+.fontawesome-area {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   margin: 20px;
+}
+
+.icon {
+  margin: 10px;
 }
 
 .icons i {

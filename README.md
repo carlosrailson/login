@@ -1,16 +1,16 @@
-# Sistema de Login
+# Login System
 
 ![Screenshot 2021-08-30 at 08-46-44 Formulário de Loggin](https://user-images.githubusercontent.com/85134349/131334961-71ab4fc9-b5c9-4ee3-9ff3-ccc392c27b9c.png)
 
-## Status: Em desenvolvimento ⚠️
+## Status: In Development ⚠️
 
-Algumas melhorias precisam ser feitas em relação à funcionalidade, tais como: adicionar um botão para a área de cadastro, caso o usuário não tenha conta, opção de recuperar a senha, entre outras.
+It needed some improves, like: add a buttom to regristration, for the user that not contains an accont, option to recover the password, and other more funcionalities.
 
-## Resumo:
+## In short:
 
-- Sistema para login de usuários. Com a finalidade de testar os resultados dos meus estudos em HTML e CSS. Como ainda não está concluído, tentei deixar o design simples e minimalista, apenas com as informações que seriam necessárias para o "usuário" fazer o login.
+Login system for users. With the propose to test the results of my studies in HTML and CSS. As it is not conclude yet, I tried to do the design simple and minimalist, just with the informations that is necessary for the user make the login.
 
-### Tecnologias Usadas:
+### Technologies:
 
 - HTML
 - CSS
