@@ -4,7 +4,7 @@
 
 ## Status: In Development ⚠️
 
-It needed some improves, like: add a buttom to regristration, for the user that not contains an accont, option to recover the password, and other more funcionalities.
+It need some improves, like: add a buttom to regristration, for the user that not contains an accont, option to recover the password, and other more funcionalities.
 
 ## In short:
 
