@@ -53,22 +53,23 @@ p {
   box-sizing: border-box;
   font-size: 17px;
   outline: none;
-  border: 2px solid transparent;
+  border: 2px solid #0F225C;
   border-radius: 10px;
   color: #0F225C;
   background-color: rgba(255, 255, 255, 0.5);
-  outline: 2px solid #0F225C;
+  outline: none
 }
 
 .form button {
-  /* border-bottom: 5px solid #555; */
+  background-color: #0f225c38;
+  border-bottom: 5px solid #0F225C;
   border-radius: 10px;
 }
 
-/* .form button:active {
-  border-bottom: 2px solid #555;
+.form button:active {
+  border-bottom: 2px solid #0F225C;
   margin-top: 8px;
-} */
+}
 
 .form button:hover {
   background-color: #0f225c49;
